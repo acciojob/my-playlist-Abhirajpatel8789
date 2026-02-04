@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1,h2,h3{
+	text-align:center;
+}
+ul{
+	background-color:white;
+	padding:20px;
+	border:2px solid black;
+	border-radius:10px
+}
+li{
+	list-style:none;
+}
+li a{
+	text-decoration:none;
+	color:black;
+}
+.Container{
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	border: 2px solid black;
+	border-radius:10px;
+	width: fit-content;
+	margin:60px
+}
+audio{
+	width:100%
+}
